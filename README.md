@@ -15,6 +15,3 @@
    vlign="center"
    align="center" />
 </p>
-<img src="https://i.imgur.com/9SJyCqv.png" data-canonical-src="https://i.imgur.com/9SJyCqv.png" width="50" />
-<img src="https://i.imgur.com/OT3X7cB.png" data-canonical-src="https://i.imgur.com/OT3X7cB.png" width="50" />
-
