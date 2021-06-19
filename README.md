@@ -8,7 +8,7 @@
     vlign="center"
     align="center" /><br/><br/><br/>
  <img 
-   src="https://github-readme-stats.vercel.app/api?username=cejaramillof&count_private=false&show_icons=true&theme=graywhite&hide_rank=false" 
+   src="https://github-readme-stats.vercel.app/api?username=cejaramillof&count_private=true&show_icons=true&theme=graywhite&hide_rank=false" 
    alt="GitHub Stats"
    vlign="center"
    align="center" />
