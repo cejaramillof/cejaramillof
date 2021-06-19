@@ -15,5 +15,3 @@
    vlign="center"
    align="center" />
 </p>
-
-## 
