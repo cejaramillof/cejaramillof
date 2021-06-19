@@ -1,7 +1,5 @@
 ## Hey, I'm Carlos <img src="https://i.imgur.com/5O9IXpl.png" data-canonical-src="https://i.imgur.com/5O9IXpl.png" alt="" width="50" />
-
 <img src="https://i.imgur.com/XP2nGDN.png" data-canonical-src="https://i.imgur.com/XP2nGDN.png" alt="" width="230" align="right" vlign="center" />
-
 <p align="center">
  <br/><br/>
  <img 
