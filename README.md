@@ -9,15 +9,18 @@
     align="center"
     vlign="center" />
   <img 
+   src="https://github-readme-stats.vercel.app/api?username=cejaramillof&count_private=true&show_icons=true&theme=graywhite&hide_rank=true&hide_border=true&hide_title=true" 
+   alt="GitHub Stats"
+   align="center"
+   vlign="center" />
+</p>
+
+<p align="center" vlign="center">
+  <img 
     src="https://i.imgur.com/jfSbEWD.png" 
     data-canonical-src="https://i.imgur.com/jfSbEWD.png" 
     alt="" 
     width="230" 
     align="right" 
     vlign="center" />
-  <img 
-   src="https://github-readme-stats.vercel.app/api?username=cejaramillof&count_private=true&show_icons=true&theme=graywhite&hide_rank=true&hide_border=true&hide_title=true" 
-   alt="GitHub Stats"
-   align="center"
-   vlign="center" />
 </p>
