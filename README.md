@@ -3,7 +3,7 @@
 <p align="center">
  <br/><br/>
    <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=cejaramillof&hide=html,coffeescript,vue,css,scss,%20python,php,pug,haml,plpgsql,tsql,smarty&count_private=true&layout=compact&custom_title=My%20Most%20used%20Languages:&hide_border=true&hide_border=true&icon_color=539bf5&title_color=539bf5&text_color=539bf5&bg_color=37393f"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=cejaramillof&hide=html,coffeescript,vue,css,scss,%20python,php,pug,haml,plpgsql,tsql,smarty&count_private=true&layout=compact&custom_title=My%20Most%20used%20Languages:&hide_border=true&hide_border=true&icon_color=539bf5&title_color=539bf5&text_color=768390&bg_color=37393f"
     alt="Most used Languages"
     vlign="center"
     align="center" />
